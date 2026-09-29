@@ -84,8 +84,8 @@ En Electrónica los pedidos top son notebooks ($850.000, dos empatados en el pri
 - El dataset es sintético y pequeño (70 pedidos): los porcentajes son ilustrativos, no representan una tienda real.
 - Cada pedido tiene un solo producto; en un caso real habría una tabla de detalle de pedido.
 - Los umbrales de segmentación (5 y 3 pedidos) se eligieron para este volumen de datos.
-- Los hallazgos se calcularon con un motor SQL equivalente; conviene ejecutar los scripts en PostgreSQL y confirmar que los resultados coincidan.
+- Los resultados fueron verificados ejecutando los scripts en PostgreSQL 18 con pgAdmin
 
 ## Autor
 
-_Tu nombre_ (completá con tu nombre y el enlace a tu perfil de GitHub)
+Blanco Joaquin https://github.com/BlancoJoaquin/
